@@ -14,7 +14,7 @@ PIP INSTALLER
 
 ## PYTHON LIBRARIES AND INSTALLATION COMMANDS TO BE RUN IN ADMINISTRATOR COMMAND PROMPT
 
--string   pip install strings    or     pip install python-string-utils
+- string   pip install strings    or     pip install python-string-utils
 
 -sys   pip install syspath
 
